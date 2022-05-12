@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python :\
 - 🌱 I’m currently learning Python...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Telegram @trdrb
+- 📫 How to reach me: 
 
 <!---
 Nowham/Nowham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
